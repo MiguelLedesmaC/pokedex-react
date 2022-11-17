@@ -1,0 +1,12 @@
+@use '../../sass/variables' as V;
+.button__box {
+}
+.button {
+    background-color:V.$color1;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
