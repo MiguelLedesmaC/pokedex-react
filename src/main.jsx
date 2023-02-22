@@ -1,5 +1,6 @@
 import  ReactDOM  from "react-dom/client";
 import { App } from "./App";
+import './sass/_index.scss';
 
 const rootElement = document.querySelector('#root');
 
